@@ -1,0 +1,77 @@
+
+/* Team
+    ---------------------------------------------------*/
+.team-member {
+	margin-bottom: 15px;
+}
+
+.team-member .member-img img {
+	max-width: 230px;
+	margin: 0 auto;
+	border: 5px solid #00b0f0;
+}
+.team-member h4 {
+	font-size: 19px;
+	line-height: 32px;
+	margin: 10px 0 0;
+	text-align: center;
+}
+.team-member .pos {
+	display: block;
+	margin: 0;
+	text-align: center;
+}
+.team-title{
+
+}
+.team-member .contact a {
+	padding: 0 8px;
+}
+.team-socials {
+	position:absolute;
+	bottom:70px;
+	left:0px;
+	right:0px;
+}
+.team-socials a {
+	background: white;
+	color: #00b0f0;
+	padding: 5px 0;
+	margin: 2px;
+}
+#contactUs, .parlex-back {
+ background:#fff;
+ background-color: #fff !important;
+}
+#contactUs .btn {
+	border-radius: 0px !important;
+	background: #FFDF00;
+}
+.descrition {
+	min-height: 90px;
+	padding: 5px 15px;
+}
+.team-member {
+	padding-top: 5px;
+}
+.team-socials {
+	margin: 15px 0;
+	opacity: 0;
+	text-align: center;
+}
+.team-member:hover .team-socials {
+	opacity: 1;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+}
+.team-socials i {
+	width: 35px;
+	height: 35px;
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	font-size: 20px;
+}

@@ -1,0 +1,54 @@
+/*nav css code*/
+nav{
+  margin-top: 3px;
+}
+/*aside css code*/
+aside {
+   background-color:#00b0f0;
+   margin-top: -15px;
+}
+aside ul a li{
+  font-family: Baskerville Old Face;
+  color: white;
+  font-size: 20px;
+  line-height: 40px;
+  list-style-type: none;
+
+}
+aside ul a{
+   text-decoration: none;
+}
+aside ul a:hover {
+  color: white;
+}
+/*section css code*/
+section{
+margin-top: 0px;
+}
+/*footer scc code*/
+footer{
+  background-color: #00b0f0;
+  margin-top: 13px;
+  color: white;
+}
+footer ul a li{
+  font-family: Baskerville Old Face;
+  color: white;
+  font-size: 40px;
+  padding: 10px;
+  line-height: 40px;
+  display: inline;
+  list-style-type: none;
+}
+footer ul a{
+   text-decoration: none;
+}
+footer ul a span:hover {
+  color: rgba(0, 255, 247, 1);
+  -webkit-transform: scale(1.1);
+}
+/*font-family css code*/
+.font{
+  font-family:Baskerville Old Face;
+  margin: 0 auto;
+}
